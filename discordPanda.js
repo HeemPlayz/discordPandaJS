@@ -47,7 +47,7 @@ bot.servers = {};
 
 bot.Server_Link = "https://discord.gg/52PcVRh";
 
-//#region ---- ALL EMOJIS ------
+//#region ---- ALL EMOJIS ------\
 //Emoji string
 bot.EmojiThonkongString = "<:thonkong:414071099517698059>"
 bot.EmojiGreenTickString = "<:greenTick:412663578009796619>"
